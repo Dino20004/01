@@ -25,7 +25,7 @@
 - Enable Static Web Hosting
 
 2. Create EC2 instance
-- Name: `backendServer`
+- Name: `<server-name>`
 - AMI: `Ubuntu`
 - Instance type: `t2.micro`
 - Key Pair: Create new key pair if you don't have one
